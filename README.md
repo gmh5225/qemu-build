@@ -42,3 +42,6 @@ sudo ../qemu/configure --cross-prefix=x86_64-w64-mingw32- --target-list=x86_64-s
 sudo make
 sudo make install
 ```
+
+# MSYS2
+- https://github.com/gmh5225/qemu-build-MSYS2-notes/blob/master/notes/build_qemu_with_enabled_hyper-v_acceleration_(whpx)_on_windows.md
